@@ -4,9 +4,7 @@ Des graines 100% bio en provenance du joli jardin de Colette :seedling:
 
 <summary>Lien vers le site</summary>
 
-<img src="/les-petites-graines/docs/assets/img/qrcode_les_petites_graines.png" alt="Lien vers le site">
-
-![Lien vers le site](/les-petites-graines/docs/assets/img/qrcode_les_petites_graines.png)
+<img src="/les-petites-graines/docs/assets/img/qrcode_les_petites_graines.png" alt="Lien vers le site" width="200">
 
 </details>
 
