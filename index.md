@@ -54,8 +54,6 @@ Des graines 100% bio en provenance du joli jardin de Colette 🌱
 
 <p>Son nom de rose trémière ou rose de trémière serait une altération de « rose d'Outremer », attesté dès 1500. Elle aurait été rapportée d'Orient par les croisés du Moyen Âge, aux XIIe et XIIIe siècles lors de batailles contre les Turcs.</p>
 
-*Source :* ![Wikipedia]()
-
 <p><i>Source :</i> <a href="https://fr.wikipedia.org/wiki/Alcea_rosea">Wikipedia</a></p>
 
 </details>
@@ -108,9 +106,9 @@ Des graines 100% bio en provenance du joli jardin de Colette 🌱
 
 <p>La Bourrache ou Bourrache officinale (Borago officinalis L.) est une espèce de plantes annuelles de la famille des Boraginacées, assez commune en Europe.</p>
 
-<p>Les fleurs de bourrache et les jeunes feuilles se consomment traditionnellement à l'état frais. On l'utilise aussi comme aromate. Le goût des fleurs rappelle la saveur de l'huître, alors que celui des feuilles rappelle la saveur acidulée du concombre. </p>
+<p>Les fleurs de bourrache et les jeunes feuilles se consomment traditionnellement à l'état frais. On l'utilise aussi comme aromate. Le goût des fleurs rappelle la saveur de l'huître (c'est assez bluffant), alors que celui des feuilles rappelle la saveur acidulée du concombre. </p>
 
-<p>Il est déconseillé de consommer la bourrache, particulièrement de manière régulière et prolongée. En effets la bourrache contient également des alcaloïdes pyrrolizidiniques, aux propriétés hépatotoxiques dangereuses (elles augmentent le risque de tumeurs au foie).</p>
+<p>Il est déconseillé de consommer la bourrache de manière régulière et prolongée. En effets la bourrache contient également des alcaloïdes pyrrolizidiniques, aux propriétés hépatotoxiques dangereuses (elles augmentent le risque de tumeurs au foie).</p>
 
 <p><i>Source :</i> <a href="https://fr.wikipedia.org/wiki/Bourrache_officinale">Wikipedia</a></p>
   
