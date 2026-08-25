@@ -1,4 +1,4 @@
-Des graines 100% bio en provenance du joli jardin de Colette :seedling:
+Des graines 100% bio en provenance du joli jardin de Colette 🌱
 
 <details>
 
