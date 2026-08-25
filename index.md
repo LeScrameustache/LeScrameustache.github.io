@@ -1,4 +1,4 @@
-Des graines 100% bio en provenance du joli jardin de Colette 🌱
+Des graines 100% bio en provenance du joli jardin de Colette dans les Hautes-Alpes 🌱
 
 <details>
 
