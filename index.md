@@ -1,5 +1,12 @@
 Des graines 100% bio en provenance du joli jardin de Colette :seedling:
 
+<details>
+
+<summary>Lien vers le site</summary>
+
+![Lien vers le site](/les-petites-graines/docs/assets/img/qrcode_les_petites_graines.png)
+</details>
+
 ## Œillets d’Inde
 
 ![Œillets d’Inde](/les-petites-graines/docs/assets/img/oeillets_d_inde.jpg)
