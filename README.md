@@ -1,5 +1,3 @@
-# LeScrameustache.github.io
-Les petites graines d’Hadra
 
 ## Œillets d’Inde
 
