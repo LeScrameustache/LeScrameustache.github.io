@@ -5,10 +5,24 @@
 
 ## Ipomées
 
+![Ipomées](/les-petites-graines/docs/assets/img/ipomees.png)
+
 ## Roses Trémières
+
+![Roses Trémières](/les-petites-graines/docs/assets/img/roses_tremieres.jpg)
 
 ## Soucis (Calendula)
 
+![Soucis](/les-petites-graines/docs/assets/img/calendula.jpg)
+
 ## Silènes
 
+![Silènes](/les-petites-graines/docs/assets/img/silene-compagnon-blanc.jpg)
+
+## Bourrache
+
+![Bourrache](/les-petites-graines/docs/assets/img/bourrache-fotolia.jpg)
+
 ## Chou Kale
+
+![Chou Kale](/les-petites-graines/docs/assets/img/chou-kale.jpg)
