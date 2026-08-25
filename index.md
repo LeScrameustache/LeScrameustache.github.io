@@ -2,7 +2,7 @@ Des graines 100% bio en provenance du joli jardin de Colette dans les Hautes-Alp
 
 <details>
 
-<summary>Lien vers le site</summary>
+<summary><b>Lien vers le site 🔗</b></summary>
 
 <img src="/les-petites-graines/docs/assets/img/qrcode_les_petites_graines.png" alt="Lien vers le site" width="200">
 
@@ -13,7 +13,7 @@ Des graines 100% bio en provenance du joli jardin de Colette dans les Hautes-Alp
 ![Œillets d’Inde](/les-petites-graines/docs/assets/img/oeillets_d_inde.jpg)
 
 <details>
-  <summary><b>En apprendre plus</b></summary>
+  <summary><b>En apprendre plus 📗</b></summary>
 
 <p>L'œillet d'Inde (Tagetes patula) est une espèce de plantes à fleurs de la famille des Asteraceae. Elle est originaire des régions tropicales des Amériques allant du Mexique à la Bolivie.</p>
 
@@ -29,7 +29,7 @@ Des graines 100% bio en provenance du joli jardin de Colette dans les Hautes-Alp
 ![Ipomées](/les-petites-graines/docs/assets/img/ipomees.png)
 
 <details>
-  <summary><b>En apprendre plus</b></summary>
+  <summary><b>En apprendre plus 📗</b></summary>
 
 <p>Ipomoea est un genre d’environ 500 espèces de plantes volubiles, d’arbustes ou d’arbres de la famille des Convolvulaceae. Certaines études (D. Austin, 1997) en recensent entre 600 et 700 dont plus de la moitié est originaire d'Amérique du Nord ou du Sud.</p>
 
@@ -46,7 +46,7 @@ Des graines 100% bio en provenance du joli jardin de Colette dans les Hautes-Alp
 ![Roses Trémières](/les-petites-graines/docs/assets/img/roses_tremieres.jpg)
 
 <details>
-  <summary><b>En apprendre plus</b></summary>
+  <summary><b>En apprendre plus 📗</b></summary>
 
 <p>Alcea rosea, Althaea rosea, rose trémière, passe-rose, passerose ou encore primerose, est une espèce de plantes vivaces de la famille des Malvaceae.</p>
 
@@ -63,7 +63,7 @@ Des graines 100% bio en provenance du joli jardin de Colette dans les Hautes-Alp
 ![Soucis](/les-petites-graines/docs/assets/img/calendula.jpg)
 
 <details>
-<summary><b>En apprendre plus</b></summary>
+<summary><b>En apprendre plus 📗</b></summary>
 
 <p>Le souci ou souci officinal, Calendula officinalis, est une espèce de plantes à fleurs de la famille des Asteraceae.</p>
 
@@ -83,7 +83,7 @@ Des graines 100% bio en provenance du joli jardin de Colette dans les Hautes-Alp
 
 <details>
   
-<summary><b>En apprendre plus</b></summary>
+<summary><b>En apprendre plus 📗</b></summary>
 
 <p>Silene compagnon blanc (Silene latifolia) est une plante dioïque pouvant mesurer jusqu'à environ 100 cm.</p>
 
@@ -102,7 +102,7 @@ Des graines 100% bio en provenance du joli jardin de Colette dans les Hautes-Alp
 ![Bourrache](/les-petites-graines/docs/assets/img/bourrache-fotolia.jpg)
 
 <details>
-<summary><b>En apprendre plus</b></summary>
+<summary><b>En apprendre plus 📗</b></summary>
 
 <p>La Bourrache ou Bourrache officinale (Borago officinalis L.) est une espèce de plantes annuelles de la famille des Boraginacées, assez commune en Europe.</p>
 
@@ -119,7 +119,7 @@ Des graines 100% bio en provenance du joli jardin de Colette dans les Hautes-Alp
 ![Chou Kale](/les-petites-graines/docs/assets/img/chou-kale.jpg)
 
 <details>
-<summary><b>En apprendre plus</b></summary>
+<summary><b>En apprendre plus 📗</b></summary>
 
 <p>Le chou kale, est un nom vernaculaire dérivé de l'anglais qui désigne plusieurs variétés botaniques de choux ayant comme point commun d'être des variétés anciennes, non pommées, résistantes au froid et dont on récolte parfois les feuilles une à une.</p>
 
