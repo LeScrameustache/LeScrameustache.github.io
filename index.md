@@ -15,14 +15,15 @@ Des graines 100% bio en provenance du joli jardin de Colette 🌱
 <details>
   <summary><b>En apprendre plus</b></summary>
 
-L'œillet d'Inde (Tagetes patula) est une espèce de plantes à fleurs de la famille des Asteraceae. Elle est originaire des régions tropicales des Amériques allant du Mexique à la Bolivie.
+<p>L'œillet d'Inde (Tagetes patula) est une espèce de plantes à fleurs de la famille des Asteraceae. Elle est originaire des régions tropicales des Amériques allant du Mexique à la Bolivie.</p>
 
-Ce sont des plantes herbacées. Cette espèce de tagètes (ou tagettes) fait partie de celles dont les fleurs sont comestibles (**personellement on n’a jamais essayé**), et son goût se rapproche de celui du fruit de la passion.
+<p>Ce sont des plantes herbacées. Cette espèce de tagètes (ou tagettes) fait partie de celles dont les fleurs sont comestibles (<strong>personellement on n’a jamais essayé</strong>), et son goût se rapproche de celui du fruit de la passion.</p>
 
-On l'utilise dans les potages, les beurres aromatisés ou « beurres fleuris », et ses pétales colorent les salades de fruits. Ces propriétés colorantes lui valent le surnom de « safran du pauvre ».
+<p>On l'utilise dans les potages, les beurres aromatisés ou « beurres fleuris », et ses pétales colorent les salades de fruits. Ces propriétés colorantes lui valent le surnom de « safran du pauvre ».</p>
 
-*Source :* ![Wikipedia](https://fr.wikipedia.org/wiki/%C5%92illet_d%27Inde)
+<p><i>Source :</i> <a href="https://fr.wikipedia.org/wiki/%C5%92illet_d%27Inde">Wikipedia</a></p>
 </details>
+
 ## Ipomées
 
 ![Ipomées](/les-petites-graines/docs/assets/img/ipomees.png)
