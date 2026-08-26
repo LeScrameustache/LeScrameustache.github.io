@@ -137,4 +137,9 @@ Couvert végétal composé de veste, de radis chinois et de trèfles
 
 ![Les semis d'Émilie](/les-petites-graines/docs/assets/img/semis_emilie.jpg)
 
+<details>
+<summary><b>En apprendre plus 📗</b></summary>
 
+<p>📆 Semis du 15 septembre au 15 octobre</p>
+
+</details>
