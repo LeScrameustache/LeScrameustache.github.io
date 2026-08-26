@@ -128,5 +128,13 @@ Des graines 100% bio en provenance du joli jardin de Colette dans les Hautes-Alp
 <p><strong>Conseil cuisine de Marie :</strong> si tu veux le manger en salade, tu peux le masser avec de l’huile d’olive et du sel pour l’attendrir. </p>
 
 <p><i>Source :</i> <a href="https://fr.wikipedia.org/wiki/Chou_kale">Wikipedia</a></p>
-  
+
 </details>
+
+## Les semis d'Émilie 
+
+Couvert végétal composé de veste, de radis chinois et de trèfles
+
+![Les semis d'Émilie](/les-petites-graines/docs/assets/img/semis_emilie.jpg)
+
+
